@@ -9,5 +9,6 @@ public class basic1 {
         System.out.print("isi angka: ");
         System.out.println("aaaaaaa");
         System.out.println("ini baris baru");
+        System.out.println("apah");
     }
 }
