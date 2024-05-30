@@ -7,6 +7,7 @@ public class basic1 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("isi angka: ");
-
+        System.out.println("aaaaaaa");
+        System.out.println("ini baris baru");
     }
 }
