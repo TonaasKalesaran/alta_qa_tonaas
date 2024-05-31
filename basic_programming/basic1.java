@@ -10,5 +10,7 @@ public class basic1 {
         System.out.println("aaaaaaa");
         System.out.println("ini baris baru");
         System.out.println("apah");
+
+        System.out.println("ini ternyata basic 1");
     }
 }
